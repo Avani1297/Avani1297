@@ -8,7 +8,7 @@ Hello! I'm Avani Sharma, a passionate and driven data scientist currently pursui
 - 🌱 I’m currently working on enhancing marketing strategies to refine customer engagement and drive revenue growth.
 - 👯 I’m looking to collaborate on Machine Learning and AI Innovations, Business Analytics Solutions and Data Driven Decision Making
 - 💬 **Skills**: Python, SQL, Alteryx, Power BI, Excel, Tableau, Spark, Agile Methodologies, BitBucket, Unit4, CaseWare IDEA
-- ⚡ **Fun fact**:  I enjoy cooking and experimenting with new recipes, as well as gardening and growing different plants and vegetables in my free time!
+- ⚡ **Fun fact**:  I enjoy cooking and experimenting with new recipes in my free time!
 
 ## Education
 - **M.Sc. in Business Analytics, UC Davis** (Expected Jun 2024)
