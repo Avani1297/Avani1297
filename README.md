@@ -5,9 +5,9 @@
 
 ## About me
 A passionate and driven data scientist currently pursuing a Master of Science in Business Analytics at the University of California, Davis. With over 4 years of experience in data analytics and technology integration, I have honed my skills in leveraging advanced analytical techniques to drive process improvements and develop innovative solutions.
-- 🌱 I’m currently working on enhancing marketing strategies to refine customer engagement and drive revenue growth.
-- 👯 I’m looking to collaborate on Machine Learning and AI Innovations, Business Analytics Solutions and Data Driven Decision Making
-- 💬 **Skills**: Python, SQL, Alteryx, Power BI, Excel, Tableau, Spark, Agile Methodologies, BitBucket, Unit4, CaseWare IDEA
+- I’m currently working on enhancing marketing strategies to refine customer engagement and drive revenue growth.
+- I’m looking to collaborate on Machine Learning and AI Innovations, Business Analytics Solutions and Data Driven Decision Making
+- **Skills**: Python, SQL, Alteryx, Power BI, Excel, Tableau, Spark, Agile Methodologies, BitBucket, Unit4, CaseWare IDEA
 
 ## Education
 - **M.Sc. in Business Analytics, UC Davis** (Expected Jun 2024)
