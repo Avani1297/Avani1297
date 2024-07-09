@@ -21,6 +21,7 @@ A passionate and driven data scientist currently pursuing a Master of Science in
 ## Certifications
 - Infosys Global Agile Developer
 - Alteryx Designer Core Certified
+- Tableau Desktop Specialist
 
   
 <!---
