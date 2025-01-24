@@ -1,7 +1,7 @@
 # Avani Sharma 
 📍 San Francisco, CA
 📞 (628) 280-9719
-✉️ avssharma@ucdavis.edu
+✉️ avanisharma1297@gmail.com
 
 ## About me
 A passionate and driven data scientist currently pursuing a Master of Science in Business Analytics at the University of California, Davis. With over 4 years of experience in data analytics, technology integration and predictve modeling, I have honed my skills in leveraging advanced analytical techniques to drive business growth and develop innovative solutions.
